@@ -30,5 +30,13 @@ The project was carried out during my IT training at AICIC Concepts Limited.
 - Develop a Power BI dashboard.
 - Provide recommendations based on findings.
 
+## Project Files
+
+- [Project Report (PDF)](Sales_Performance_Analysis_Project_Report.pdf)
+- [PowerPoint Presentation (PDF)](Sales_Performance_Analysis_Presentation.pdf)
+- [PowerPoint Presentation (PPTX)](Sales_Performance_Analysis_Presentation.pptx)
+- [Power BI Dashboard](Sales_Performance_Analysis.pbix)
+- [Cleaned Dataset](SalesData_Cleaned.csv)
+
 ## Author
 Apakama Ugochukwu Chimamkpam
