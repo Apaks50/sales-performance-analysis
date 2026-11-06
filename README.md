@@ -38,5 +38,13 @@ The project was carried out during my IT training at AICIC Concepts Limited.
 - [Power BI Dashboard](Sales_Performance_Analysis.pbix)
 - [Cleaned Dataset](SalesData_Cleaned.csv)
 
+## Dashboard Preview
+
+### Sales Performance Overview
+![Dashboard Overview](Dashboard_Overview.png)
+
+### Detailed Sales Performance Analysis
+![Detailed Sales Analysis](Detailed_Sales_Analysis.png)
+
 ## Author
 Apakama Ugochukwu Chimamkpam
