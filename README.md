@@ -33,8 +33,8 @@ The project was carried out during my IT training at AICIC Concepts Limited.
 ## Project Files
 
 - [Project Report (PDF)](Sales_Performance_Analysis_Project_Report.pdf)
-- [PowerPoint Presentation (PDF)](Sales_Performance_Analysis_Presentation.pdf)
-- [PowerPoint Presentation (PPTX)](Sales_Performance_Analysis_Presentation.pptx)
+- [PowerPoint Presentation (PDF)](SALES%20PERFORMANCE%20ANALYSIS%20AND%20REVENUE%20OPTIMIZATION%20USING%20DATA%20PRESENTATION.pdf)
+- [PowerPoint Presentation](SALES%20PERFORMANCE%20ANALYSIS%20AND%20REVENUE%20OPTIMIZATION%20USING%20DATA%20PRESENTATION.pptx)
 - [Power BI Dashboard](Sales_Performance_Analysis.pbix)
 - [Cleaned Dataset](SalesData_Cleaned.csv)
 
